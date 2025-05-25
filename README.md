@@ -1,13 +1,13 @@
 # Hey there! I'm R0scat
 
 Welcome to my corner of GitHub!  
-I'm a first year compsci student and general curious mind who loves learning new stuff and occasionally pushing random commits at 2 AM. 🛠️💡
+I'm a first year compsci student and general curious mind who loves learning new stuff and occasionally pushing random commits at 2 AM </3
 
 ##  What I’m working on
 
 - Dungeons and Dragons inspired Character Builder (hopefully in the future with a decent GUI I'm planning on actually drawing!)
 - Neverending college projects
-- Small projects for friends (valentine website and arduino project)  
+- Small projects for friends (valentine website, arduino project etc.)  
 
 ##  What I like
 
