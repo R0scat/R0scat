@@ -11,7 +11,7 @@ I'm a first year compsci student and general curious mind who loves learning new
 
 ##  What I like
 
-- Coding in C++, Python and Javascript 
+- Coding in C++, Python, Assembly x86 and Javascript 
 - Doodling with design & UI/UX
 - Exploring open-source projects
 - Gaming and chill playlists while I code
